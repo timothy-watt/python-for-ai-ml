@@ -21,10 +21,11 @@ Take a trained model from notebook to production.
 Appendices
 Nine reference appendices covering local environment setup, Keras, SQL, Git, Docker, security, and more.
 What Makes This Book Different
-One dataset, start to finish. The Stack Overflow 2025 Developer Survey runs through every chapter as a continuous project thread — you're not switching to toy examples every few pages. By Chapter 12, you've built, audited, secured, and deployed the same salary prediction system you started in Chapter 6.
+One dataset, start to finish. The Stack Overflow 2025 Developer Survey runs through every chapter as a continuous project thread; you're not switching to toy examples every few pages. By Chapter 12, you've built, audited, secured, and deployed the same salary prediction system you started in Chapter 6.
 Depth where most books skip. Most ML textbooks end at model training. This one covers what comes after: fairness auditing (Chapter 10), adversarial robustness and red teaming (Chapter 11), MLOps and drift monitoring (Chapter 12), supply chain security (Appendix H), and a dedicated troubleshooting guide for the bugs that don't crash your code but ruin your models (Appendix I).
-Built for active learning. Every chapter contains concept-check questions with collapsible answers (69 total), and three coding exercises at progressive difficulty levels — guided scaffolds, applied challenges, and open-ended extensions (39 total, all using the SO 2025 dataset).
+Built for active learning. Every chapter contains concept-check questions with collapsible answers (69 total), and three coding exercises at progressive difficulty levels; guided scaffolds, applied challenges, and open-ended extensions (39 total, all using the SO 2025 dataset).
 Zero setup. Everything runs in Google Colab. Free T4 GPU access covers all deep learning chapters.
+
 Who This Is For
 BackgroundWhere to startNo programming experienceChapter 0Some Python, new to data scienceChapter 3Python + data science, new to MLChapter 6ML background, learning deep learningChapter 7Want NLP / transformers / RAGChapter 8Want computer visionChapter 9Preparing for ML engineering interviewsChapters 6, 7, 11, 12Focused on AI safety and responsible AIChapters 10, 11, Appendix H
 
@@ -35,11 +36,12 @@ No local Python installation required
 Chapters 0–5: no prior programming assumed
 Chapters 6–12: basic Python familiarity helpful (Chapters 1–2 cover this)
 
-
 The Dataset
+
 All chapters use the Stack Overflow 2025 Developer Survey — a real-world dataset of ~15,000 curated responses covering programming languages, salaries, tools, education, and demographics. The dataset is included in the /data directory and loaded automatically in each notebook.
 
 Suggested Learning Paths
+
 Complete beginner (53–68 hours): Chapters 0 → 12 in order, plus appendices as needed.
 Python-literate, new to ML (30–40 hours): Start at Chapter 3, skim Chapters 1–2 as reference.
 ML practitioner adding depth (15–20 hours): Chapters 7–12 + Appendices H and I.
@@ -47,6 +49,7 @@ Responsible AI focus: Chapters 6, 10, 11 + Appendix H.
 Production / MLOps focus: Chapters 6, 7, 12 + Appendices G, H, I.
 
 Contributing
+
 Found a bug, a broken Colab link, or a better explanation? Issues and pull requests are welcome. Please open an issue before submitting a large pull request so we can discuss the change first.
 
 ---
