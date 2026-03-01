@@ -8,13 +8,13 @@
 &nbsp;
 ![Exercises](https://img.shields.io/badge/Exercises-39-27AE60?style=flat-square)
 
-A free, self-contained textbook for learning Python, data science, machine learning, and AI — from first principles to production. Every chapter runs in Google Colab with no local setup required. The entire book is built around a single real-world dataset: the **Stack Overflow 2025 Developer Survey**.
+A free, self-contained textbook for learning Python, data science, machine learning, and AI, from first principles to production. Every chapter runs in Google Colab with no local setup required. The entire book is built around a single real-world dataset: the **Stack Overflow 2025 Developer Survey**.
 
 ---
 
 ## Quick Start
 
-Click the badge above to open the interactive Table of Contents, or jump directly to any chapter using the links below. All notebooks run in Google Colab — a free Google account is all you need.
+Click the badge above to open the interactive Table of Contents, or jump directly to any chapter using the links below. All notebooks run in Google Colab, a free Google account is all you need.
 
 **No installation. No configuration. Open a notebook and run.**
 
