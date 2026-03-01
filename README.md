@@ -124,7 +124,7 @@ Ten reference appendices covering local environment setup, Keras, SQL, Git, Dock
 
 ## The Dataset
 
-All chapters use the **Stack Overflow 2025 Developer Survey** : a real-world dataset of ~15,000 curated responses covering programming languages, salaries, tools, education, and demographics. The dataset is included in the `/data` directory and loaded automatically in each notebook.
+All chapters use the **Stack Overflow 2025 Developer Survey**: a real-world dataset of ~15,000 curated responses covering programming languages, salaries, tools, education, and demographics. The dataset is included in the `/data` directory and loaded automatically in each notebook.
 
 ---
 
