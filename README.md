@@ -88,7 +88,7 @@ Ten reference appendices covering local environment setup, Keras, SQL, Git, Dock
 
 ## What Makes This Book Different
 
-**One dataset, start to finish.** The Stack Overflow 2025 Developer Survey runs through every chapter as a continuous project thread — you're not switching to toy examples every few pages. By Chapter 12, you've built, audited, secured, and deployed the same salary prediction system you started in Chapter 6.
+**One dataset, start to finish.** The Stack Overflow 2025 Developer Survey runs through every chapter as a continuous project thread, you're not switching to toy examples every few pages. By Chapter 12, you've built, audited, secured, and deployed the same salary prediction system you started in Chapter 6.
 
 **Depth where most books skip.** Most ML textbooks end at model training. This one covers what comes after: fairness auditing (Chapter 10), adversarial robustness and red teaming (Chapter 11), MLOps and drift monitoring (Chapter 12), supply chain security (Appendix H), and a dedicated troubleshooting guide for the bugs that don't crash your code but ruin your models (Appendix I).
 
@@ -124,7 +124,7 @@ Ten reference appendices covering local environment setup, Keras, SQL, Git, Dock
 
 ## The Dataset
 
-All chapters use the **Stack Overflow 2025 Developer Survey** — a real-world dataset of ~15,000 curated responses covering programming languages, salaries, tools, education, and demographics. The dataset is included in the `/data` directory and loaded automatically in each notebook.
+All chapters use the **Stack Overflow 2025 Developer Survey** : a real-world dataset of ~15,000 curated responses covering programming languages, salaries, tools, education, and demographics. The dataset is included in the `/data` directory and loaded automatically in each notebook.
 
 ---
 
